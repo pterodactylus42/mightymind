@@ -40,4 +40,3 @@ zeige eine reihe buttons
             zeige gekennzeichnete buttons in der history
             resette die prüf-buttons
 
-358711920168
